@@ -1,0 +1,14 @@
+/Users/ecemtopaclioglu/Desktop/console app/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/ecemtopaclioglu/Desktop/console app/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/ecemtopaclioglu/Desktop/console app/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/ecemtopaclioglu/Desktop/console app/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/ecemtopaclioglu/Desktop/console app/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/ecemtopaclioglu/Desktop/console app/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecemtopaclioglu/Desktop/console app/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/ecemtopaclioglu/Desktop/console app/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/ecemtopaclioglu/Desktop/console app/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/ecemtopaclioglu/Desktop/console app/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/ecemtopaclioglu/Desktop/console app/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/ecemtopaclioglu/Desktop/console app/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/ecemtopaclioglu/Desktop/console app/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/ecemtopaclioglu/Desktop/console app/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
